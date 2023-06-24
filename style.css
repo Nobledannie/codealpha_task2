@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Tahoma, sans-serif;
+    font-size: 40px;
+    color: #fff;
+    margin-top: 30px;
+}
+
+h2{
+    margin: 15px;
+}
+
+body{
+    font: "Raleway", sans-serif;
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 0.5em;
+    top: 15%;
+    background: #1c0131;
+}
+
+.random-button{
+    background-color: #c991f3;
+    border: none;
+    border-radius: 5px;
+    color: #1c0131;
+    padding: 15px 12px;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 10px;
+}
+
